@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
-ortools
+plotly
 folium
 streamlit-folium
+requests
